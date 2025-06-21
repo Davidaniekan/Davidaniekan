@@ -13,7 +13,7 @@ I started my coding journey just two months ago, and it’s already been an incr
 </details>
 
 * 🌍  I'm based in Cape Town, SA
-* 🖥️  See my portfolio at [DA GIT](http://github.com/Davidaniekan)
+* 🖥️  See my portfolio at [DA](www.davidaniekan.com)
 * ✉️  You can contact me at [davidaniekanjonah@gmail.com](mailto:davidaniekanjonah@gmail.com)
 * 🧠  I'm learning Tailwind
 
